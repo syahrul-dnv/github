@@ -14,5 +14,5 @@ contoh
 jadinya seperti ini<br>
 ```<img src="https://drive.google.com/uc?export=view&id=1mBr5BYyDOCXVXyHOw6aLuT_V3mJKKAB2">```
 <div align="center">
- <img src="https://drive.google.com/uc?export=view&id=1mBr5BYyDOCXVXyHOw6aLuT_V3mJKKAB2">
+ <img src="https://drive.google.com/uc?export=view&id=1fcdVJ9reiad8POwTexvWVoYs9E0JXg6l">
 </div>
