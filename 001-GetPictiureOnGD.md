@@ -1,3 +1,5 @@
+
+
 # Mengambil Gambar dari Google Drive
 <li>langkah 1 kita siapkan dulu file gambar di sebuah google drive masing</li>
 <li>langkah 2 kita klik kanan lalu pilih `Dapatkan Link` </li>
