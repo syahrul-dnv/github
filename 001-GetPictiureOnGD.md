@@ -11,7 +11,7 @@ Diatas adalah link default gambarnya, kita perlu mengambil id nya saja: <pre>1mB
 Dan kita perlu tag html yaitu img untuk membungkus id tersebut.
 contoh
 <br>
- ```<img src="https://drive.google.com/uc?export=view&id= (masukan id tersebut) "/>```
+ ```<img src="https://drive.google.com/uc?export=view&id= (masukan id tersebut)">```
 
 jadinya seperti ini<br>
 ```<img src="https://drive.google.com/uc?export=view&id=1mBr5BYyDOCXVXyHOw6aLuT_V3mJKKAB2">```
